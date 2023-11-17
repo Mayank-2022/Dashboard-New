@@ -11,7 +11,7 @@ const Menuitems = [
     icon: IconHome,
     href: "/",
   },
-  {
+  /*{
     id: uniqueId(),
     title: "Buttons",
     icon: IconCircleDot,
@@ -52,7 +52,7 @@ const Menuitems = [
     title: "Tables",
     icon: IconLayoutGrid,
     href: "/ui-components/table",
-  },
+  },*/
 ];
 
 export default Menuitems;

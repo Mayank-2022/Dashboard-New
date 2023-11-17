@@ -7,8 +7,8 @@ const Footer = () => {
     <Box sx={{ pt: 6, textAlign: "center" }}>
       <Typography>
         © 2023 All rights reserved by{" "}
-        <Link href="https://www.wrappixel.com">
-          Wrappixel.com
+        <Link href="jnanagni.gkv.ac.in">
+          Jnanagni 23
         </Link>{" "}
       </Typography>
     </Box>
